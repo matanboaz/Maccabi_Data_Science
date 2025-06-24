@@ -24,8 +24,8 @@ The solution covers:
 |------|-------------|
 | `Maccabi_Home_assignment_Boaz_Matan.ipynb` | Main notebook: EDA, preprocessing, modeling, evaluation |
 | `Maccabi_Home_assignment_Boaz_Matan.html` | Exported HTML version of the notebook |
-| `ds_assignment_data.csv` | Provided dataset |
-| `summary_slides.pdf` (if applicable) | Visual summary of methodology and results |
+| `Maccabi_Assignment_Summary_Presentation.pptx` | Visual summary of methodology and results |
+|`Maccabi_assignment.py` | end-to-end pipeline script |
 | `README.md` | This file |
 
 ---
