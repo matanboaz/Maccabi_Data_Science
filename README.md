@@ -34,8 +34,8 @@ The solution covers:
 
 1. Clone the repository:
    ```bash
-   git clone <your_repo_url>
-   cd <repo_name>
+   git clone https://github.com/matanboaz/Maccabi_Data_Science/
+   cd <Maccabi_Data_Science>
    ```
 
 2. Install dependencies (recommended: use a virtual environment):
